@@ -18,14 +18,16 @@
 
 ---
 
-🔭 I’m currently working on building E-Commerce SaaS -Clean Archeticture - Desgin Pattern - Important tools : .Net8 , Identity , Redis , Docker 
-, Third-party integration .
+- 🔭 I’m currently working on building E-Commerce SaaS -Clean Archeticture - Desgin Pattern - Important tools : .Net8 , Identity , Redis , Docker 
+ ,Third-party integration .
 
-🌱 I’m currently learning Third-Party Integration and Docker
+- 🌱 I’m currently learning **Third-Party Integration** and **Docker**
 
-💬 Ask me about ASP.NET Core, Web APIs, and Backend Development
+- 💬 Ask me about **ASP.NET Core, Web APIs, and Backend Development**.
 
-⚡ Fun fact: I used to work as a gym trainer 💪
+- 📫 How to reach me **mohamedtalattt5@gmail.com**
+
+- ⚡ Fun fact: I used to work as a gym trainer 💪
 
 ---
 
