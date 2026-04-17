@@ -12,11 +12,6 @@
     <img src="https://img.shields.io/badge/View My CV-005020?style=for-the-badge" />
   </a>
 </p>
-
----
-
-## 👀 Profile Views
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamedTalaat&style=flat&color=004020&label=Profile+Views"/>
 </p>
@@ -103,29 +98,24 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedTalaat&show_icons=true&theme=tokyonight" width="45%"/>
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MohamedTalaat&theme=highcontrast" width="60%"/>
-</p>
-
-
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedTalaat&layout=compact&hide_border=false&title_color=0366d6&icon_color=0366d6" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedTalaat&show_icons=true&hide_border=false&title_color=0366d6&icon_color=0366d6" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mohamedtalaat2003&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="45%" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com/?user=mohamedtalaat2003&theme=tokyonight&hide_border=true" 
+    width="45%" 
+  />
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedTalaat&hide_border=false&theme=default" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtalaat2003&layout=compact&theme=tokyonight&hide_border=true" 
+    width="45%" 
+  />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedTalaat&layout=normal&count_private=true&title_color=0366d6)
