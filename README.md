@@ -96,7 +96,7 @@
 
 - 🛒 E-Commerce SaaS 
 - ⚡ Life Quest
-- 
+
 ---
 
 ### 📊 GitHub Stats & Activity
