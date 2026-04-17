@@ -1,57 +1,10 @@
-<!-- ```
- __      __  ______  ____    ____    __  __  ____
-/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
-\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
- \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
-  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
-   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
-    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
+<!--- I am a CS Freshman at [The University of Toronto](https://web.cs.toronto.edu/). I love researching and working with Machine Learning, especially Computer Vision. Coming from the software and robotics background, I contribute extensively to/ maintain popular open-source projects like [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [Kubernetes](https://kubernetes.io/), [Kubeflow](https://www.kubeflow.org/), [PapersWithCode](https://paperswithcode.com/), [freeCodeCamp](https://www.freecodecamp.org/) among others. I also love building open-source projects (usually related to Kubernetes and Machine Learning), some of which have been pretty popular -->
 
-``` -->
-
-<img width="957" alt="kayo-chan" src="https://github.com/user-attachments/assets/f423798c-1161-4c3b-b4c0-199e6d62c024">
-
-<p align="center"><i>(drawing by me)</i></p>
-
-<br /> <br />
-
-
-#### Read the latest posts from my [blog](https://blog.khaleelgibran.com)
-
-<!--START_SECTION:feed-->
-* [Who runs the Arch Linux mirror in the UAE?](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;arch-mirror-uae&#x2F;)
-* [I made a Figma plugin and it was harder than I expected](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;chromakey&#x2F;)
-* [My greatest contribution to open-source, yet.](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;greatest-oss-contribution&#x2F;)
-* [你好, my LED strip is sending data to China](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;led-light-to-china&#x2F;)
-* [Go on Vercel&#39;s Serverless Functions](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;go-serverless-vercel&#x2F;)
-<!--END_SECTION:feed-->
-
-<br />
-
-#### Or check out cool stuff from dev.to!
-
+### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to create and publish your own Vue component libraries &lpar;actually works I swear&rpar;](https://dev.to/khalby786/how-to-create-and-publish-your-own-vue-component-libraries-actually-works-i-swear-15ol)
-- [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
-- [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
-- [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
+- [Deriving a Generalized Kaiming Initialization](https://rishit-dagli.github.io/2026/02/07/general-kaiming.html)
+- [Geometry of Motion](https://rishit-dagli.github.io/2025/10/05/geometry-of-motion.html)
+- [Simulating Stuff](https://rishit-dagli.github.io/2025/09/27/simulation.html)
+- [Reconstruct-It! A Collection of 3D Reconstruction Datasets and Trained Splats](https://rishit-dagli.github.io/2025/03/28/nerf-gs-datasets.html)
+- [Why Does SGD Love Flat Minima?](https://rishit-dagli.github.io/2024/01/01/sgd.html)
 <!-- BLOG-POST-LIST:END -->
-
-<br />
-
-#### My weekly development breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<br />
-
-<details><summary>Kewl badges</summary>
-<img src="https://github-profile-trophy.vercel.app/?username=khalby786&theme=nord&no-frame=true&margin-w=10&column=10" />
-</details>
