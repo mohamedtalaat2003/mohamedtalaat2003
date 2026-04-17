@@ -94,10 +94,9 @@
 
 ### 📌 Projects
 
-- 🛒 E-Commerce API (Basket, Orders, Payment)  
-- 🔐 Authentication System (JWT & Roles)  
-- ⚡ Redis Caching  
-
+- 🛒 E-Commerce SaaS 
+- ⚡ Life Quest
+- 
 ---
 
 ### 📊 GitHub Stats & Activity
