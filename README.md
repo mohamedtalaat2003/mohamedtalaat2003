@@ -1,27 +1,23 @@
-<div align="center" width="50"> 
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
-
-<h1>Hi 👋 I'm Mohamed Talaat </h1>
+<h1>Hi 👋, I'm Mohamed Talaat</h1>
 <h3>Backend .NET Developer</h3>
 
-<p>
-I build scalable backend systems using .NET, focusing on clean architecture, APIs, and databases.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=.NET+Backend+Developer;API+Builder;Clean+Architecture;Always+Learning" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 </div>
 
-<hr>
+---
 
 ## 🚀 About Me
 
 - 💻 Backend Developer using **.NET & C#**
-- 🧠 Strong understanding of **OOP, Data Structures**
-- 🏗️ Interested in **Clean Architecture & System Design**
-- 🔌 Built projects with **Payment Integration & APIs**
-- 📚 Currently learning more about **Advanced .NET & Performance**
+- 🧠 Strong in **OOP & Data Structures**
+- 🏗️ Passionate about **Clean Architecture**
+- 🔌 Built projects with **APIs & Payment Integration**
+- 📚 Currently improving **Performance & Scalability**
 
 ---
 
@@ -31,10 +27,10 @@ I build scalable backend systems using .NET, focusing on clean architecture, API
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF%20Core-68217A?style=flat)
+![EF Core](https://img.shields.io/badge/Entity%20Framework-68217A?style=flat)
 ![Dapper](https://img.shields.io/badge/Dapper-000000?style=flat)
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat&logo=redis&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 ---
@@ -42,16 +38,16 @@ I build scalable backend systems using .NET, focusing on clean architecture, API
 ## 🧠 Code Mindset
 
 ```csharp
-public class Developer
+public class MohamedTalaat
 {
-    public string Name = "Mohamed Talaat";
     public string Role = "Backend .NET Developer";
 
     public List<string> Skills = new()
     {
-        "C#", ".NET", "SQL", "APIs",
-        "Clean Architecture", "OOP", "Data Structures"
+        "C#", ".NET", "SQL Server",
+        "APIs", "Clean Architecture",
+        "OOP", "Data Structures"
     };
 
-    public string CurrentFocus = "Building scalable backend systems";
+    public string Passion = "Building scalable backend systems";
 }
