@@ -8,9 +8,9 @@
 </div>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/View My CV-005020?style=for-the-badge" />
-  </a>
+<a href="https://drive.google.com/file/d/12nQn9bFtdS029cvSREhir51PMzr_AXcy/view" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My%20CV-005020?style=for-the-badge" />
+</a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamedTalaat&style=flat&color=004020&label=Profile+Views"/>
