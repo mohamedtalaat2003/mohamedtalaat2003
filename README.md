@@ -97,6 +97,7 @@
 - 🛒 E-Commerce SaaS 
 - ⚡ Life Quest
 - 👀 Occuloplasty
+- 🚗 Car-Price Predition $
 ---
 
 ### 📊 GitHub Stats & Activity
