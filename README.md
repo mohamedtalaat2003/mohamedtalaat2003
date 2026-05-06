@@ -104,11 +104,11 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mohamedtalaat2003&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=mohamedtalaat2003&show_icons=true&theme=tokyonight&hide_border=true&v=1" 
     width="45%" 
   />
   <img 
-    src="https://streak-stats.demolab.com/?user=mohamedtalaat2003&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com/?user=mohamedtalaat2003&theme=tokyonight&hide_border=true&v=1" 
     width="45%" 
   />
 </p>
@@ -117,7 +117,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtalaat2003&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtalaat2003&layout=compact&theme=tokyonight&hide_border=true&v=1" 
     width="45%" 
   />
 </p>
