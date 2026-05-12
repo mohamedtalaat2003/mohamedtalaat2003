@@ -18,10 +18,9 @@
 
 ---
 
-- 🔭 I’m currently working on building E-Commerce SaaS -Clean Archeticture - Desgin Pattern - Important tools : .Net8 , Identity , Redis , Docker 
- ,Third-party integration .
+- 🔭 I’m currently working on building - **Graduation Project** .
 
-- 🌱 I’m currently learning **Third-Party Integration** and **Docker**
+- 🌱 I’m currently Deep Dive in **ASP.Net** and **Docker**
 
 - 💬 Ask me about **ASP.NET Core, Web APIs, and Backend Development**.
 
