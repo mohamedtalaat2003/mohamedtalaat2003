@@ -1,102 +1,123 @@
+<h1 align="center">Hi 👋, I'm Mohamed Talaat</h1>
+<h2 align="center">Backend .NET Developer</h2>
+
 <div align="center">
-
-<table width="100%">
-<tr>
-<td width="40%" align="center">
-
-<img src="https://github.com/mohamedtalaat2003.png" width="150" alt="Profile Picture" style="border-radius:50%; border: 3px solid #a371f7;">
-
-<h1>Hi 👋 I'm <br><b>Mohamed Talaat</b></h1>
-<p><i>Deep diving into software engineering,<br>scalable systems, databases, and system design</i></p>
-
-<img src="https://img.shields.io/badge/Backend_Developer-8A2BE2?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/.NET_Developer-1E90FF?style=for-the-badge&logoColor=white">
-
-<br><br>
-
-<pre><code>> Building scalable backend systems 
-> with clean architecture and modern
-> technologies.
-></code></pre>
-
-<br>
-<img src="https://komarev.com/ghpvc/?username=mohamedtalaat2003&label=Profile%20Views&color=0d1117&style=flat-square&logo=github" alt="Profile Views">
-
-<br><br>
-<a href="https://linkedin.com/in/mohamedtalaat2003"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:mohamedtalaat2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://occuloplasty-xbst.vercel.app"><img src="https://img.shields.io/badge/Portfolio-20232A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://github.com/mohamedtalaat2003"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<br>
-<a href="https://leetcode.com/mohamedtalaat2003"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-<a href="https://codeforces.com/profile/mohamedtalaat2003"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-
-</td>
-<td width="60%">
-
-<h3>🌐 Backend Technologies</h3>
-
-<table width="100%">
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"><br>Azure</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"><br>PostgreSQL</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"><br>SQL Server</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45"><br>.NET</td>
-<td align="center"><img src="https://img.icons8.com/color/48/000000/entity.png" width="45"><br>EF Core</td>
-<td align="center"><img src="https://img.icons8.com/color/48/000000/data-backup.png" width="45"><br>Dapper</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/48/000000/api.png" width="45"><br>REST APIs</td>
-<td align="center"><img src="https://img.icons8.com/color/48/000000/network.png" width="45"><br>gRPC</td>
-<td align="center"><img src="https://img.icons8.com/color/48/000000/internet.png" width="45"><br>Web APIs</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"><br>Git</td>
-<td align="center"><img src="https://img.icons8.com/color/48/000000/hexagon.png" width="45"><br>Clean Arch</td>
-<td align="center"><img src="https://img.icons8.com/color/48/000000/synchronize.png" width="45"><br>CQRS</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/48/000000/clipboard.png" width="45"><br>Spec Patt.</td>
-<td align="center"><img src="https://img.icons8.com/color/48/000000/puzzle.png" width="45"><br>API Integ.</td>
-<td align="center"><img src="https://img.icons8.com/color/48/000000/code.png" width="45"><br>MVC</td>
-<td align="center"><img src="https://img.icons8.com/color/48/000000/cube.png" width="45"><br>OOP</td>
-<td align="center" colspan="2"><img src="https://img.icons8.com/color/48/000000/brain.png" width="45"><br>DSA</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedtalaat2003&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=a371f7&border_color=30363d&hide_border=false" alt="GitHub Stats">
-</td>
-<td width="33%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtalaat2003&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_color=30363d&hide_border=false" alt="Top Languages">
-</td>
-<td width="33%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedtalaat2003&theme=tokyonight&background=0d1117&ring=a371f7&fire=a371f7&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&border=30363d" alt="GitHub Streak">
-</td>
-</tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr>
-<td align="center">
-<h3>🐍 Contribution Snake</h3>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedtalaat2003/mohamedtalaat2003/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedtalaat2003/mohamedtalaat2003/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohamedtalaat2003/mohamedtalaat2003/output/github-contribution-grid-snake.svg">
-</picture>
-<br>
-<p>💡 <b>Learn, Build, Deploy, Repeat.</b></p>
-</td>
-</tr>
-</table>
+    
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Always+Learning;Project-Based+Learning;Tutorials;Courses)
 
 </div>
+
+<p align="center">
+<a href="https://drive.google.com/file/d/12nQn9bFtdS029cvSREhir51PMzr_AXcy/view" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My%20CV-005020?style=for-the-badge" />
+</a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedTalaat&style=flat&color=004020&label=Profile+Views"/>
+</p>
+
+---
+
+- 🔭 I’m currently working on building E-Commerce SaaS -Clean Archeticture - Desgin Pattern - Important tools : .Net8 , Identity , Redis , Docker 
+ ,Third-party integration .
+
+- 🌱 I’m currently learning **Third-Party Integration** and **Docker**
+
+- 💬 Ask me about **ASP.NET Core, Web APIs, and Backend Development**.
+
+- 📫 How to reach me **mohamedtalattt5@gmail.com**
+
+- ⚡ Fun fact: I used to work as a gym trainer 💪
+
+---
+
+### 📬 Contact Me
+
+<p align="left">
+
+<a href="mailto:mohamedtalattt5@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/mohamed-talaat-">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20APIs-02569B?style=flat"/>
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-68217A?style=flat"/>
+
+<img src="https://img.shields.io/badge/Dapper-000000?style=flat"/>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Clean%20Architecture-1F1F1F?style=flat"/>
+<img src="https://img.shields.io/badge/MVC-5C2D91?style=flat"/>
+<img src="https://img.shields.io/badge/N--Tier%20Architecture-4B0082?style=flat"/>
+
+<img src="https://img.shields.io/badge/Repository%20Pattern-2E2E2E?style=flat"/>
+<img src="https://img.shields.io/badge/Unit%20of%20Work-2E2E2E?style=flat"/>
+<img src="https://img.shields.io/badge/Specification%20Pattern-2E2E2E?style=flat"/>
+
+<img src="https://img.shields.io/badge/Third--Party%20APIs-FF6C37?style=flat"/>
+
+</p>
+
+---
+
+### 🧰 Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat"/>
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+
+</p>
+
+---
+
+### 📌 Projects
+
+- 🛒 E-Commerce SaaS 
+- ⚡ Life Quest
+- 👀 Occuloplasty
+- 🚗 Car-Price Predition $
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mohamedtalaat2003&show_icons=true&theme=tokyonight&hide_border=true&v=1" 
+    width="45%" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com/?user=mohamedtalaat2003&theme=tokyonight&hide_border=true&v=1" 
+    width="45%" 
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtalaat2003&layout=compact&theme=tokyonight&hide_border=true&v=1" 
+    width="45%" 
+  />
+</p>
