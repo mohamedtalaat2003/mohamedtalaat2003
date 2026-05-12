@@ -3,7 +3,7 @@
 
 <div align="center">
     
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Always+Learning;Project-Based+Learning;Tutorials;Courses)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Deep+diving+into;software-engineering;system-design;database-design;scalable-systems)
 
 </div>
 
