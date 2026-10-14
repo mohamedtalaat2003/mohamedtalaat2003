@@ -99,11 +99,3 @@
 - 🚗 Car-Price Predition $
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=mohamedtalaat2003&theme=tokyonight&hide_border=true&v=1" 
-    width="65%" 
-  />
-</p>
